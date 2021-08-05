@@ -1,0 +1,26 @@
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\Portal 2 chaos.exe.config
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\Portal 2 chaos.exe
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\Portal 2 chaos.pdb
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\obj\Debug\Portal 2 chaos.csproj.AssemblyReference.cache
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\obj\Debug\Portal 2 chaos.csproj.CoreCompileInputs.cache
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\obj\Debug\Portal 2 chaos.exe
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\obj\Debug\Portal 2 chaos.pdb
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Api.Core.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Api.Core.Enums.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Api.Core.Interfaces.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Api.Core.Models.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Api.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Api.Helix.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Api.Helix.Models.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Api.V5.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Api.V5.Models.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Client.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Client.Enums.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Client.Models.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.Communication.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\TwitchLib.PubSub.dll
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\johnafan\source\repos\Portal 2 chaos\Portal 2 chaos\obj\Debug\Portal 2 chaos.csproj.CopyComplete
