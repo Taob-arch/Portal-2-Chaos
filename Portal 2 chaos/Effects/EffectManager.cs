@@ -20,5 +20,7 @@ namespace Portal_2_chaos.Effects
         public static Suicide Suicide = new Suicide();
         public static Wheatley Wheatley = new Wheatley();
         public static DisableMouse Test = new DisableMouse();
+        public static FovFuck FovFuck = new FovFuck();
+        public static DisableMouse DisableMouse = new DisableMouse();
     }
 }
