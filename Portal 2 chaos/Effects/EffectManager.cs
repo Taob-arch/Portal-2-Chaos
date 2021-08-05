@@ -22,5 +22,6 @@ namespace Portal_2_chaos.Effects
         public static DisableMouse Test = new DisableMouse();
         public static FovFuck FovFuck = new FovFuck();
         public static DisableMouse DisableMouse = new DisableMouse();
+        public static WDEG WDEG = new WDEG();
     }
 }
