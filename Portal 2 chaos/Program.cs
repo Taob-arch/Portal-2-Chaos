@@ -116,7 +116,7 @@ namespace Portal_2_chaos
     
         private void onTick(Object o, EventArgs evntargs)
         {
-            if(tickyay == 1000)
+            if(tickyay == 100)
             {
                 Console.WriteLine("Tick!");
                 if (votes.Count <= 0)
@@ -135,7 +135,7 @@ namespace Portal_2_chaos
                 }
                 Console.WriteLine("Result: " + (result - 1));
 
-                Effects.EffectManager.effects[result - 1].Execute();
+                //Effects.EffectManager.effects[result - 1].Execute();
 
                 Console.WriteLine("\n");
                 Console.WriteLine("\n");

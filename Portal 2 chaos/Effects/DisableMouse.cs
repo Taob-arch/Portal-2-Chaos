@@ -7,13 +7,17 @@ using System.Windows.Forms;
 
 namespace Portal_2_chaos.Effects
 {
-    class Test : Effect
+    class DisableMouse : Effect
     {
-        public Test() : base("Test") { }
+        public DisableMouse() : base("Mouse nono") { }
 
         public override void Execute()
         {
-            Console.WriteLine("test");
+            Utils.ExecuteCommand("sensitivity 0");
+
+            Utils.setTimeout(() => {
+                Utils.ExecuteCommand("sensitivity 8");
+            }, 10000);
         }
     }
 }

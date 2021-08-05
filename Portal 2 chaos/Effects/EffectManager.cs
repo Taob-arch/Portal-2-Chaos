@@ -19,5 +19,6 @@ namespace Portal_2_chaos.Effects
         public static SpawnCube SpawnCube = new SpawnCube();
         public static Suicide Suicide = new Suicide();
         public static Wheatley Wheatley = new Wheatley();
+        public static DisableMouse Test = new DisableMouse();
     }
 }
